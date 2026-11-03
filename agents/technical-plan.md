@@ -4,28 +4,30 @@
 
 **Specialty:** Technical planning
 
-## Functionality
+## Functionality and deliverables
 
-This role contributes technical planning to the requested work. It uses the supplied facts, selected brief and relevant context to prepare a contribution that can be reviewed and combined with other specialist work.
-
-## Expected deliverables
+This role supports technical planning using the selected task brief and supplied facts.
 
 - Technical planning
 
-## Collaboration
+## Specialist structure
 
-This role can participate directly or alongside specialists when the workflow assigns it. Planning, review and synthesis responsibilities depend on the selected team.
+Technical planner
 
-## A natural-language brief
+Parentage describes responsibility and specialist context. It does not automatically execute every descendant; actual assignments are bounded by the run plan. A selected role may share an eligible model with others or use its configured model.
 
-> Help me with technical planning. Use the facts I provide, state important assumptions and deliver a clear result with next actions.
+## Useful inputs
 
-## Boundaries
+State your goal, relevant source facts, constraints and desired output. Missing owners, dates or facts should remain explicit. The contribution can be reviewed and combined with the rest of the team.
 
-This is a reasoning, drafting or review role. It is not a separately certified profession or an independently trained model. Model eligibility, task context, configured instructions and the available tools determine what can actually be completed. Important claims, calculations and external actions require appropriate verification.
+## Scope and control
 
-[Department directory](../departments/engineering.md) · [All agents](../docs/ALL-AGENTS.md) · [Teams](https://github.com/vpicciuolo/oyyo-teams)
+Reasoning, drafting and review. File exports use the document service; code execution, web search and media generation require an available execution tool. A role definition is not proof of execution, professional certification or a separate trained model. External actions require the corresponding available tools and permissions.
 
-**Available for private demos and private beta. [Request early access](https://oyyo.one/contact).**
+[Department directory](../departments/engineering.md) · [All roles](../docs/ALL-AGENTS.md)
+
+[OYYO ONE AI documentation hub](https://github.com/vpicciuolo/oyyo-one-ai) · [OYYO website](https://oyyo.one) · [Exclusive preview](https://oyyo.one/contact)
+
+**Private demos and private beta for investors and companies, subject to eligibility review, verified NDA signing, appropriate assessment and final approval. [Request exclusive preview access](https://oyyo.one/contact).**
 
 Copyright © 2026 OYYO · HRN INNOVATION TECHNOLOGIES LTD. All rights reserved.

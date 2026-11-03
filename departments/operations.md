@@ -1,8 +1,8 @@
 # Operations
 
-5 available role definitions in this department.
+5 roles in this department.
 
-| Agent | Specialties and contribution |
+| Role | Specialty |
 | --- | --- |
 | [Operations planner](../agents/operations-plan.md) | Operations planning |
 | [Operations specialist](../agents/operations.md) | Processes and logistics |
@@ -10,6 +10,6 @@
 | [Customer support specialist](../agents/support.md) | Customer service |
 | [Product strategist](../agents/product.md) | Product and business planning |
 
-[Full directory](../docs/ALL-AGENTS.md) · [Early access](https://oyyo.one/contact)
+[OYYO ONE AI documentation hub](https://github.com/vpicciuolo/oyyo-one-ai) · [OYYO website](https://oyyo.one) · [Exclusive preview](https://oyyo.one/contact)
 
 Copyright © 2026 OYYO · HRN INNOVATION TECHNOLOGIES LTD. All rights reserved.

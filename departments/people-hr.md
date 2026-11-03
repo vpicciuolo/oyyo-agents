@@ -1,12 +1,12 @@
 # People & HR
 
-2 available role definitions in this department.
+2 roles in this department.
 
-| Agent | Specialties and contribution |
+| Role | Specialty |
 | --- | --- |
 | [HR planner](../agents/hr-plan.md) | People operations planning |
 | [HR specialist](../agents/hr.md) | Hiring and onboarding |
 
-[Full directory](../docs/ALL-AGENTS.md) · [Early access](https://oyyo.one/contact)
+[OYYO ONE AI documentation hub](https://github.com/vpicciuolo/oyyo-one-ai) · [OYYO website](https://oyyo.one) · [Exclusive preview](https://oyyo.one/contact)
 
 Copyright © 2026 OYYO · HRN INNOVATION TECHNOLOGIES LTD. All rights reserved.

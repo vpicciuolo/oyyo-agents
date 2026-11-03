@@ -4,28 +4,32 @@
 
 **Specialty:** Slide-by-slide narrative, copy and design directions
 
-## Functionality
+## Functionality and deliverables
 
-This role contributes slide-by-slide narrative, copy and design directions to the requested work. It uses the supplied facts, selected brief and relevant context to prepare a contribution that can be reviewed and combined with other specialist work.
-
-## Expected deliverables
+This role supports slide-by-slide narrative, copy and design directions using the selected task brief and supplied facts.
 
 - Slide-by-slide narrative, copy and design directions
 
-## Collaboration
+## Specialist structure
 
-Related coordination role: **[Brand designer](brand.md)**. The workflow controls actual assignments and handoffs; this relationship does not mean both roles run on every request.
+Brand designer → Social carousel designer
 
-## A natural-language brief
+Related parent role: [Brand designer](brand.md).
 
-> Help me with slide-by-slide narrative, copy and design directions. Use the facts I provide, state important assumptions and deliver a clear result with next actions.
+Parentage describes responsibility and specialist context. It does not automatically execute every descendant; actual assignments are bounded by the run plan. A selected role may share an eligible model with others or use its configured model.
 
-## Boundaries
+## Useful inputs
 
-This is a reasoning, drafting or review role. It is not a separately certified profession or an independently trained model. Model eligibility, task context, configured instructions and the available tools determine what can actually be completed. Important claims, calculations and external actions require appropriate verification.
+State your goal, relevant source facts, constraints and desired output. Missing owners, dates or facts should remain explicit. The contribution can be reviewed and combined with the rest of the team.
 
-[Department directory](../departments/creative-media.md) · [All agents](../docs/ALL-AGENTS.md) · [Teams](https://github.com/vpicciuolo/oyyo-teams)
+## Scope and control
 
-**Available for private demos and private beta. [Request early access](https://oyyo.one/contact).**
+Specialist reasoning, drafting and review. Actual publishing, outreach, file changes and model generation require the corresponding connected execution service. A role definition is not proof of execution, professional certification or a separate trained model. External actions require the corresponding available tools and permissions.
+
+[Department directory](../departments/creative-media.md) · [All roles](../docs/ALL-AGENTS.md)
+
+[OYYO ONE AI documentation hub](https://github.com/vpicciuolo/oyyo-one-ai) · [OYYO website](https://oyyo.one) · [Exclusive preview](https://oyyo.one/contact)
+
+**Private demos and private beta for investors and companies, subject to eligibility review, verified NDA signing, appropriate assessment and final approval. [Request exclusive preview access](https://oyyo.one/contact).**
 
 Copyright © 2026 OYYO · HRN INNOVATION TECHNOLOGIES LTD. All rights reserved.

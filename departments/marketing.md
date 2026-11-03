@@ -1,13 +1,13 @@
 # Marketing
 
-3 available role definitions in this department.
+3 roles in this department.
 
-| Agent | Specialties and contribution |
+| Role | Specialty |
 | --- | --- |
 | [Marketing strategist](../agents/marketing.md) | Campaign strategy |
 | [Copywriter](../agents/copywriter.md) | Copy and content |
 | [Brand designer](../agents/brand.md) | Brand and image briefs |
 
-[Full directory](../docs/ALL-AGENTS.md) · [Early access](https://oyyo.one/contact)
+[OYYO ONE AI documentation hub](https://github.com/vpicciuolo/oyyo-one-ai) · [OYYO website](https://oyyo.one) · [Exclusive preview](https://oyyo.one/contact)
 
 Copyright © 2026 OYYO · HRN INNOVATION TECHNOLOGIES LTD. All rights reserved.

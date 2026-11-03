@@ -8,7 +8,7 @@ A local model must be qualified and accepted before local inference. A connected
 
 Meeting/note content uses the local-only policy in the current documented Windows baseline. Review relevant execution mode and context boundaries before other connected work.
 
-The 200-role catalog contains coordination, review and specialist definitions. It is not a statement that all roles execute per request or that a review substitutes for tool evidence or qualified professional judgement.
+The 536-role catalog contains coordination, review and specialist definitions. It is not a statement that all roles execute per request or that a review substitutes for tool evidence or qualified professional judgement.
 
 **Available for private demos and private beta. [Request early access](https://oyyo.one/contact).**
 

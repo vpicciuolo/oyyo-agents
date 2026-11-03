@@ -1,8 +1,8 @@
 # Review
 
-5 available role definitions in this department.
+5 roles in this department.
 
-| Agent | Specialties and contribution |
+| Role | Specialty |
 | --- | --- |
 | [QA reviewer](../agents/qa.md) | Quality control |
 | [Marketing reviewer](../agents/marketing-qa.md) | Marketing quality control |
@@ -10,6 +10,6 @@
 | [HR reviewer](../agents/hr-qa.md) | People resource review |
 | [Operations reviewer](../agents/operations-qa.md) | Operations quality control |
 
-[Full directory](../docs/ALL-AGENTS.md) · [Early access](https://oyyo.one/contact)
+[OYYO ONE AI documentation hub](https://github.com/vpicciuolo/oyyo-one-ai) · [OYYO website](https://oyyo.one) · [Exclusive preview](https://oyyo.one/contact)
 
 Copyright © 2026 OYYO · HRN INNOVATION TECHNOLOGIES LTD. All rights reserved.
